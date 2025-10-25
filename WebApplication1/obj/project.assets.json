@@ -4013,11 +4013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LAB\\Desktop\\asp_2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\asp.net\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\LAB\\Desktop\\asp_2\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\asp.net\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\LAB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LAB\\Desktop\\asp_2\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\asp.net\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
