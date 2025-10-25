@@ -1,0 +1,36 @@
+﻿@using WebApplication1.Dtos.NhomHang
+@{
+    List<NhomHangDtos> nhomhangs = ViewData["nhomHangs"] as List<NhomHangDtos> ?? [];
+}
+
+
+
+
+
+
+
+
+
+<h2> Nhóm hàng hóa </h2>
+<a href=" /nhom-hang/them-moi" claas="btn btn-primary"></a>
+
+<table class="table">
+
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Tên nhóm</th>
+            <th scope="col">Ghi Chú</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in nhomhangs)
+        {
+            <tr>
+                <th scope="row">@item.NhomId</th>
+                <td> @item.TenNhom</td>
+                <td> @item.GhiChu</td>
+            </tr>
+        }
+    </tbody>
+</table>

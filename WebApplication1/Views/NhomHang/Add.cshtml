@@ -1,0 +1,45 @@
+﻿<h2>Thêm mới nhóm hàng hóa</h2>
+
+<div class="mb-3">
+    <label for="txtTenNhom" class="form-label">Tên nhóm</label>
+    <input type="text" class="form-control" id="txtTenNhom">
+</div>
+
+<div class="mb-3">
+    <label for="txtGhiChu" class="form-label">Ghi chú</label>
+    <input type="text" class="form-control" id="txtGhiChu">
+</div>
+
+<div class="mb-3">
+    <button type="button" class="btn btn-primary" id="btnThemMoi">Thêm mới</button>
+    <a href="/nhom-hang/list" class="btn btn-secondary">Đóng</a>
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            $('#btnThemMoi').on('click', function() {
+                const tenNhom = $('#txtTenNhom').val();
+                const ghiChu = $('#txtGhiChu').val();
+                fetch('/nhom-hang/add', {
+                    method: 'POST',
+                    body: JSON.stringify({
+                        TenNhom: tenNhom,
+                        GhiChu: ghiChu
+                    }),
+                    headers: {
+                        'Content-Type': 'application/json'
+                    }
+                })
+                .then(resp => resp.json())
+                .then(resp => {
+                    if (resp.isSuccess === false) {
+                        alert(resp.message);
+                        return;
+                    }
+                    alert('Thêm mới nhóm hàng thành công');
+                })
+            })
+        })
+    </script>
+}
