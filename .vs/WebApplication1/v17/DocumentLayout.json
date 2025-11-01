@@ -1,58 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\asp.net\\",
+  "WorkspaceRootPath": "C:\\Users\\LAB17\\Desktop\\asp.net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|d:\\asp.net\\webapplication1\\controllers\\nhomhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\nhomhangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|d:\\asp.net\\webapplication1\\views\\nhomhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|c:\\users\\lab17\\desktop\\asp.net\\webapplication1\\views\\nhomhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\nhomhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|d:\\asp.net\\webapplication1\\views\\nhomhang\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|c:\\users\\lab17\\desktop\\asp.net\\webapplication1\\views\\nhomhang\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\nhomhang\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|d:\\asp.net\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|c:\\users\\lab17\\desktop\\asp.net\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|c:\\users\\lab17\\desktop\\asp.net\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|d:\\asp.net\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|d:\\asp.net\\webapplication1\\dtos\\nhomhang\\nhomhangdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\nhomhang\\nhomhangdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|d:\\asp.net\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|c:\\users\\lab17\\desktop\\asp.net\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|d:\\asp.net\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|c:\\users\\lab17\\desktop\\asp.net\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|d:\\asp.net\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|c:\\users\\lab17\\desktop\\asp.net\\webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|c:\\users\\lab17\\desktop\\asp.net\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|d:\\asp.net\\webapplication1\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|c:\\users\\lab17\\desktop\\asp.net\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|d:\\asp.net\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|c:\\users\\lab17\\desktop\\asp.net\\webapplication1\\database\\entities\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\database\\entities\\hanghoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|c:\\users\\lab17\\desktop\\asp.net\\webapplication1\\dtos\\nhomhang\\nhomhangdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\nhomhang\\nhomhangdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|c:\\users\\lab17\\desktop\\asp.net\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|d:\\asp.net\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|d:\\asp.net\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|c:\\users\\lab17\\desktop\\asp.net\\webapplication1\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C3EDD9-D544-4AD1-A7DE-A5739F614BE5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,35 +70,170 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\asp.net\\WebApplication1\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
-              "ToolTip": "D:\\asp.net\\WebApplication1\\appsettings.json",
-              "RelativeToolTip": "WebApplication1\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-25T09:08:51.131Z",
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAP0UAAAAAAAAAAAewBEVAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-01T01:44:26.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\asp.net\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\asp.net\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-01T01:42:16.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T09:08:45.644Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T01:40:29.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T01:40:22.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Views\\NhomHang\\Add.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\NhomHang\\Add.cshtml",
+              "ToolTip": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Views\\NhomHang\\Add.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\NhomHang\\Add.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T01:31:03.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-01T01:28:55.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T09:08:29.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T08:12:28.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Views\\NhomHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\NhomHang\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Views\\NhomHang\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\NhomHang\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-25T07:56:38.669Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T09:08:45.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HangHoa.cs",
+              "DocumentMoniker": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Database\\Entities\\HangHoa.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Database\\Entities\\HangHoa.cs",
+              "ToolTip": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Database\\Entities\\HangHoa.cs",
+              "RelativeToolTip": "WebApplication1\\Database\\Entities\\HangHoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-01T01:22:14.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NhomHangDtos.cs",
+              "DocumentMoniker": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Dtos\\NhomHang\\NhomHangDtos.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Dtos\\NhomHang\\NhomHangDtos.cs",
+              "ToolTip": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Dtos\\NhomHang\\NhomHangDtos.cs",
+              "RelativeToolTip": "WebApplication1\\Dtos\\NhomHang\\NhomHangDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T07:17:54.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "DatabaseContext.cs",
-              "DocumentMoniker": "D:\\asp.net\\WebApplication1\\DatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\DatabaseContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\DatabaseContext.cs",
-              "ToolTip": "D:\\asp.net\\WebApplication1\\DatabaseContext.cs",
+              "ToolTip": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\DatabaseContext.cs",
               "RelativeToolTip": "WebApplication1\\DatabaseContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,130 +241,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "D:\\asp.net\\WebApplication1\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
-              "ToolTip": "D:\\asp.net\\WebApplication1\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-25T09:08:30.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "D:\\asp.net\\WebApplication1\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewImports.cshtml",
-              "ToolTip": "D:\\asp.net\\WebApplication1\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-25T09:08:29.084Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\asp.net\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\asp.net\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-25T08:38:55.255Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "D:\\asp.net\\WebApplication1\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "D:\\asp.net\\WebApplication1\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-25T08:12:28.42Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "D:\\asp.net\\WebApplication1\\Views\\NhomHang\\Add.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\NhomHang\\Add.cshtml",
-              "ToolTip": "D:\\asp.net\\WebApplication1\\Views\\NhomHang\\Add.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\NhomHang\\Add.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-25T07:55:50.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\asp.net\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\asp.net\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-25T07:47:21.549Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NhomHangController.cs",
-              "DocumentMoniker": "D:\\asp.net\\WebApplication1\\Controllers\\NhomHangController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\NhomHangController.cs",
-              "ToolTip": "D:\\asp.net\\WebApplication1\\Controllers\\NhomHangController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\NhomHangController.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAgwDwAAABfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T07:19:29.135Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\asp.net\\WebApplication1\\Views\\NhomHang\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\NhomHang\\Index.cshtml",
-              "ToolTip": "D:\\asp.net\\WebApplication1\\Views\\NhomHang\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\NhomHang\\Index.cshtml",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAtwBkAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-25T07:56:38.669Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\asp.net\\WebApplication1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "D:\\asp.net\\WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\LAB17\\Desktop\\asp.net\\WebApplication1\\Program.cs",
               "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T07:08:23.151Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NhomHangDtos.cs",
-              "DocumentMoniker": "D:\\asp.net\\WebApplication1\\Dtos\\NhomHang\\NhomHangDtos.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Dtos\\NhomHang\\NhomHangDtos.cs",
-              "ToolTip": "D:\\asp.net\\WebApplication1\\Dtos\\NhomHang\\NhomHangDtos.cs",
-              "RelativeToolTip": "WebApplication1\\Dtos\\NhomHang\\NhomHangDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-25T07:17:54.933Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-10-25T07:08:23.151Z",
+              "EditorCaption": ""
             }
           ]
         }
