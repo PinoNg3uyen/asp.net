@@ -7,7 +7,7 @@
 
 
 <h2> Nhóm hàng hóa </h2>
-<a href=" /nhom-hang/them-moi" class="btn btn-primary">Them moi</a>
+<a href="/nhom-hang/them-moi" class="btn btn-primary">Thêm mới </a>
 
 <table class="table">
 
@@ -21,18 +21,17 @@
     <tbody>
         @foreach (var item in nhomhangs)
         {
-            <tr> data-id="@item.NhomId">
-
+            <tr data-id="@item.NhomId">
                 <th scope="row">@item.NhomId</th>
-                <td> @item.TenNhom</td>
-                <td> @item.GhiChu</td>
+                <td>@item.TenNhom</td>
+                <td>@item.GhiChu</td>
                 <td>
-                    <a hreft="/nhom-hang/chinh-sua?nhomID=@item.NhomId" class="btn btn-primary  btn-sm">Sua</a>
-                    <button type ="button" class=" btn btn-danger btn-sm btn-xoa">Xoa</button>
-
+                    <a href="/nhom-hang/chinh-sua?nhomID=@item.NhomId" class="btn btn-primary btn-sm">Sửa</a>
+                    <button type="button" class="btn btn-danger btn-sm btn-xoa">Xóa</button>
                 </td>
             </tr>
         }
+
     </tbody>
 </table>
 
