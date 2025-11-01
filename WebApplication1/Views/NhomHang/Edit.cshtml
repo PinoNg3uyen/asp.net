@@ -1,0 +1,71 @@
+﻿<h2>Chỉnh sửa nhóm hàng hóa</h2>
+
+<div class="mb-3">
+    <label for="txtTenNhom" class="form-label">Tên nhóm</label>
+    <input type="text" class="form-control" id="txtTenNhom" />
+</div>
+
+<div class="mb-3">
+    <label for="txtGhiChu" class="form-label">Ghi chú</label>
+    <input type="text" class="form-control" id="txtGhiChu" />
+</div>
+
+<div class="mb-3">
+    <button type="button" class="btn btn-primary" id="btnChinhSua">Chỉnh sửa</button>
+    <a href="/nhom-hang/list" class="btn btn-secondary">Đóng</a>
+</div>
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const param = new URLSearchParams(document.location.search);
+            const nhomId = param.get('nhomId');
+
+            const url = '/nhom-hang/get-by-id?nhomId=' + nhomId;
+
+            fetch(url, {
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                method: 'get'
+            })
+                .then(resp => resp.json())
+                .then(resp => {
+                    if (resp.IsSuccess === false) {
+                        alert(resp.Message);
+                        return;
+                    }
+
+                    $('#txtTenNhom').val(resp.Data.TenNhom);
+                    $('#txtGhiChu').val(resp.Data.GhiChu);
+                });
+
+            $('#btnChinhSua').on('click', function () {
+                const tenNhom = $('#txtTenNhom').val();
+                const ghiChu = $('#txtGhiChu').val();
+
+                fetch('/nhom-hang/edit', {
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    method: 'post',
+                    body: JSON.stringify({
+                        NhomId: parseInt(nhomId),
+                        TenNhom: tenNhom,
+                        GhiChu: ghiChu
+                    })
+                })
+                    .then(resp => resp.json())
+                    .then(resp => {
+                        if (resp.IsSuccess === false) {
+                            alert(resp.Message);
+                            return;
+                        }
+
+                        alert('Chỉnh sửa nhóm hàng thành công');
+                    });
+            });
+        });
+    </script>
+}
+

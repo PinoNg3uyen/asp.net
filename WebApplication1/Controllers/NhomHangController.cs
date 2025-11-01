@@ -50,7 +50,7 @@ public class NhomHangController(DatabaseContext db) : Controller
 
         response.Data = nhomHang;
         response.IsSuccess = true;
-
+            
         return Json(response);
     }
     [HttpPost("add")]
@@ -102,4 +102,55 @@ public class NhomHangController(DatabaseContext db) : Controller
         response.IsSuccess = true;
         return Json(response);
     }
+    [HttpGet("chinh-sua")]
+    public IActionResult Edit()
+    {
+        return View();
+    }
+    [HttpGet("get-by-id")]
+    public async Task<IActionResult> GetById(int nhomId)
+    {
+        ResponseModel response = new();
+
+        var nhomList = await db.NhomHangs
+            .Where(x => x.NhomId == nhomId)
+            .Select(x => new
+            {
+                x.NhomId,
+                x.TenNhom,
+                x.GhiChu
+            })
+            .FirstOrDefaultAsync();
+
+        response.Data = nhomList;
+
+        response.IsSuccess = true;
+
+        return Json(response);
+    }
+
+    [HttpPost("edit")]
+    public async Task<IActionResult> Edit([FromBody] NhomHangEditRequest request)
+    {
+        ResponseModel response = new();
+
+        var nhom = await db.NhomHangs
+            .Where(n => n.NhomId == request.NhomId)
+            .FirstOrDefaultAsync();
+
+        if (nhom == null)
+        {
+            response.Message = "Nhóm hàng không có trong hệ thống";
+            return Json(response);
+        }
+
+        nhom.TenNhom = request.TenNhom;
+        nhom.GhiChu = request.GhiChu;
+
+        await db.SaveChangesAsync();
+
+        response.IsSuccess = true;
+        return Json(response);
+    }
+
 }
