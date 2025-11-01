@@ -19,7 +19,7 @@
     <script>
         document.addEventListener('DOMContentLoaded', () => {
             const param = new URLSearchParams(document.location.search);
-            const nhomId = param.get('nhomId');
+            const nhomId = param.get("nhomId");
 
             const url = '/nhom-hang/get-by-id?nhomId=' + nhomId;
 
@@ -27,18 +27,17 @@
                 headers: {
                     'Content-Type': 'application/json'
                 },
-                method: 'get'
+                method: 'GET'
             })
-                .then(resp => resp.json())
-                .then(resp => {
-                    if (resp.IsSuccess === false) {
-                        alert(resp.Message);
-                        return;
-                    }
-
-                    $('#txtTenNhom').val(resp.Data.TenNhom);
-                    $('#txtGhiChu').val(resp.Data.GhiChu);
-                });
+            .then(response => response.json())
+            .then(response => {
+                if (response.IsSuccess === false) {
+                    alert(response.Message);
+                    return;
+                }
+                $('#txtTenNhom').val(response.Data.TenNhom);
+                $('#txtGhiChu').val(response.Data.GhiChu);
+            });
 
             $('#btnChinhSua').on('click', function () {
                 const tenNhom = $('#txtTenNhom').val();
@@ -48,24 +47,23 @@
                     headers: {
                         'Content-Type': 'application/json'
                     },
-                    method: 'post',
+                    method: 'POST',
                     body: JSON.stringify({
-                        NhomId: parseInt(nhomId),
+                        NhomId: parseInt(nhomId), 
                         TenNhom: tenNhom,
                         GhiChu: ghiChu
                     })
                 })
-                    .then(resp => resp.json())
-                    .then(resp => {
-                        if (resp.IsSuccess === false) {
-                            alert(resp.Message);
-                            return;
-                        }
-
-                        alert('Chỉnh sửa nhóm hàng thành công');
-                    });
+                .then(response => response.json())
+                .then(response => {
+                    if (response.IsSuccess === false) {
+                        alert(response.Message);
+                        return;
+                    }
+                    alert("Chỉnh sửa thành công")
+                })
             });
         });
+       
     </script>
 }
-

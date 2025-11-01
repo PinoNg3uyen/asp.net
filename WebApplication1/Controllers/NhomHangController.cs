@@ -102,13 +102,15 @@ public class NhomHangController(DatabaseContext db) : Controller
         response.IsSuccess = true;
         return Json(response);
     }
+
+
     [HttpGet("chinh-sua")]
     public IActionResult Edit()
     {
         return View();
     }
     [HttpGet("get-by-id")]
-    public async Task<IActionResult> GetById(int nhomId)
+    public async Task<IActionResult> GetById(int nhomId)    
     {
         ResponseModel response = new();
 
