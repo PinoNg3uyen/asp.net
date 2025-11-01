@@ -79,4 +79,27 @@ public class NhomHangController(DatabaseContext db) : Controller
 
         return Json(response);
     }
+
+
+
+    [HttpPost("Delete")]
+    public async Task<IActionResult> Delete (int nhomId)
+    {
+        ResponseModel response = new();
+        var nhomhang = db.NhomHangs
+            .Where(n => n.NhomId == nhomId)
+            .FirstOrDefault();
+
+        if  (nhomhang == null)
+        {
+            response.Message = "nhom hang khong co trong he thong";
+            return Json(response);
+
+        }
+        db.NhomHangs.Remove(nhomhang);
+        await db.SaveChangesAsync();
+
+        response.IsSuccess = true;
+        return Json(response);
+    }
 }

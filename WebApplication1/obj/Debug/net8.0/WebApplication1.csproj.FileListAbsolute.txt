@@ -437,3 +437,4 @@ C:\Users\LAB17\Desktop\asp.net\WebApplication1\obj\Debug\net8.0\refint\WebApplic
 C:\Users\LAB17\Desktop\asp.net\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Users\LAB17\Desktop\asp.net\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Users\LAB17\Desktop\asp.net\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Users\LAB17\Desktop\asp.net\WebApplication1\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
